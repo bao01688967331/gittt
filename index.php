@@ -61,10 +61,10 @@
 	  </ul>
 </div><!--  end đănng kí -->
 
-<div class="dropdown dangnhap">
+<!-- <div class="dropdown dangnhap">
   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
     Đăng Nhập
-  </button>
+  </button> -->
    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 	    
 					<form action="lib/idangnhap.php" method="POST" role="form" class="text-center">	
